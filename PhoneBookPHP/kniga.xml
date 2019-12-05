@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raamat>
+  <kontakt id="1">
+    <nimi>Vladimir</nimi>
+    <perekonnanimi>Trohhalev</perekonnanimi>
+    <telefon>53225533</telefon>
+	<email>frixifon@gmail.com</email>
+  </kontakt>
+  <kontakt id="2">
+    <nimi>Vadim</nimi>
+    <perekonnanimi>Vassiltseko</perekonnanimi>
+    <telefon>53004455</telefon>
+	<email>qwilf@gmail.com</email>
+  </kontakt>
+  <kontakt id="3">
+    <nimi>Oleg</nimi>
+    <perekonnanimi>Avtomobilev</perekonnanimi>
+    <telefon>213124256</telefon>
+	<email>bibika12@gmail.com</email>
+  </kontakt>
+  <kontakt id="4">
+    <nimi>Nikita</nimi>
+    <perekonnanimi>Vinogradov</perekonnanimi>
+    <telefon>59989987</telefon>
+	<email>vin@gmail.com</email>
+  </kontakt>
+<kontakt id=""><nimi>Danil</nimi><perekonnanimi>Gritsenko</perekonnanimi><telefon>55555588</telefon><email>123@mail.ru</email></kontakt></raamat>
